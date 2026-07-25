@@ -73,6 +73,12 @@ Right now I'm sharpening my MLOps stack, building portfolio projects, and target
 
 ---
 
+### 📈 Activity
+
+![sohampalnitkar's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=sohampalnitkar&theme=minimal&hide_border=true)
+
+---
+
 <p align="center">
   <i>Open to Data Analyst and ML Engineer roles in Dublin · Stamp 1G eligible from Oct 2026</i>
 </p>
