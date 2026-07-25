@@ -75,10 +75,10 @@ Right now I'm sharpening my MLOps stack, building portfolio projects, and target
 
 ### 📈 GitHub stats
 
+### 📈 GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohampalnitkar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampalnitkar&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampalnitkar&layout=compact&hide_border=true&langs_count=8" height="150" />
 </p>
 
 ---
